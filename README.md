@@ -54,7 +54,8 @@ BookManagement/
    Create a database and update your `application.properties` with correct credentials.
 
 3. **Build and run the project**
-
+   * npm init -y
+   * npm i express mongoose
    * nodemon or node server.js
 4. **Access the app**
    Navigate to `http://localhost:3000/books`
