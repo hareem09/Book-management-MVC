@@ -23,23 +23,16 @@ The Book Management System is a simple web application built using the **Model-V
 BookManagement/
 │
 ├── model/
-│   └── Book.java
+│   └── bookSchema.js
 │
 ├── controller/
-│   └── BookController.java
+│   └── Book.js
 │
 ├── view/
-│   ├── listBooks.jsp
-│   ├── addBook.jsp
-│   └── editBook.jsp
+│   ├── book.js
 │
-├── dao/
-│   └── BookDAO.java
-│
-├── config/
-│   └── WebConfig.java
-│
-└── application.properties
+├── server/
+│   └── server.js
 ```
 
 ## Setup Instructions
