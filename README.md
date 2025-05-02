@@ -28,7 +28,7 @@ BookManagement/
 ├── controller/
 │   └── Book.js
 │
-├── view/
+├── route/
 │   ├── book.js
 │
 ├── server/
